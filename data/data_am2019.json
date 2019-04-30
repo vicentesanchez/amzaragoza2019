@@ -1,0 +1,383 @@
+{
+	"Futbol": {
+		"generar_torneo": "Y",
+		"categorias": {
+			"FUTBOL_4P5P": {
+				"descripcion": "Futbol mixto 4º y 5º Primaria",
+				"color": "Brown",
+				"equipos": [
+					"CarlosOlivan",
+					"PabloSanchez",
+					"AlvaroComenge",
+					"HugoSerrano",
+					"MillanRojas",
+					"PabloRamon",
+					"DiegoBentura"
+				]
+			},
+			"FUTBOL_6P1E": {
+				"descripcion": "Futbol mixto 6º Primaria y 1º ESO",
+				"color": "DarkCyan",
+				"equipos": [
+					"ManuelRaventos",
+					"JuanTorres",
+					"EmilioMoreno",
+					"TomasRodrigo",
+					"PedroCoduras",
+					"JavierNavarro",
+					"JulianEzquerro",
+					"LorienMachin",
+					"NicolasPueo"
+				]
+			},
+			"FUTBOL_FEM_2E+": {
+				"descripcion": "Futbol femenino desde 2º de la ESO",
+				"color": "DarkGoldenRod",
+				"equipos": [
+					"BelenPerdiguer",
+					"BeatrizJuste",
+					"CandelasNavarro",
+					"PatriciaUriz",
+					"MartaOsacar",
+					"LauraLopez"
+				]
+			},
+			"FUTBOL_MAS_2E3E": {
+				"descripcion": "Futbol masculino 2º y 3º ESO",
+				"color": "DarkGreen",
+				"equipos": [
+					"FranchoMontañes",
+					"JuanPlana",
+					"AlexCiria",
+					"AlvaroGalan"
+				]
+			},
+			"FUTBOL_MAS_4E+": {
+				"descripcion": "Futbol masculino 4º ESO y mayores",
+				"color": "DarkMagenta",
+				"equipos": [
+					"AlvaroCarilla",
+					"JuanAisa",
+					"JavierOsacar",
+					"JuanPelegrin",
+					"MartinAisa",
+					"CarlosFernandez",
+					"JesusHuarte",
+					"IgnacioCasado",
+					"AlvaroFrances",
+					"EmilioMoreno",
+					"JuanLabarta",
+					"JuanClaver"
+				]
+			}
+		},
+		"campos": [
+			"campoF1",
+			"campoF2",
+			"campoF3",
+			"campoF4",
+			"campoF5"
+		],
+		"horarios": [
+			"09:00",
+			"09:30",
+			"10:00",
+			"10:30",
+			"12:00",
+			"12:30",
+			"13:00",
+			"13:30",
+			"14:00",
+			"14:30",
+			"15:00",
+			"15:30",
+			"16:00",
+			"16:30",
+			"17:00",
+			"17:30"
+		]
+	},
+	"Minibasket": {
+		"generar_torneo": "Y",
+		"categorias": {
+			"MINI_FEM_4P5P": {
+				"descripcion": "Baloncesto femenino 4º y 5º Primaria",
+				"color": "Brown",
+				"equipos": [
+					"NuriaGimeno",
+					"CarlaRubio",
+					"CarmenFernandez",
+					"AlejandraDeCastro",
+					"LauraTorres",
+					"RocioNavarro",
+					"CarlotaGargallo",
+					"MenciaDelaCalle",
+					"CarlotaCasado",
+					"PatriciaFerran"
+				]
+			},
+			"MINI_MAS_4P5P": {
+				"descripcion": "Baloncesto masculino 4º y 5º Primaria",
+				"color": "DarkCyan",
+				"equipos": [
+					"MarcosCortinas",
+					"JuanIglesias",
+					"MarioJaneiro"
+				]
+			},
+			"MINI_MAS_6P1E": {
+				"descripcion": "Baloncesto masculino 6º Primaria y 1º ESO",
+				"color": "DarkGreen",
+				"equipos": [
+					"MarcosRodrigo",
+					"DanielFernandez",
+					"IgnacioOsacar",
+					"AlvaroMartinez",
+					"FernandoAlen"
+				]
+			}
+		},
+		"campos": [
+			"campoB3",
+			"campoB4"
+		],
+		"horarios": [
+			"09:00",
+			"09:30",
+			"10:00",
+			"10:30",
+			"12:00",
+			"12:30",
+			"13:00",
+			"13:30",
+			"14:00",
+			"14:30",
+			"15:00",
+			"15:30",
+			"16:00",
+			"16:30",
+			"17:00",
+			"17:30"
+		]
+	},
+	"Baloncesto": {
+		"generar_torneo": "Y",
+		"categorias": {
+			"BASKET_FEM_6P1E": {
+				"descripcion": "Baloncesto femenino 6º Primaria y 1º ESO (antiguo minibasket)",
+				"color": "DarkGoldenRod",
+				"equipos": [
+					"CeliaPena",
+					"VioletaSanchez",
+					"AnaFanlo",
+					"GabrielaGimeno",
+					"MariaArtano",
+					"AnaGimeno",
+					"MacarenaSauras",
+					"LeyreSalinas",
+					"InesGarcia"
+				]
+			},
+			"BASKET_MAS_2E+": {
+				"descripcion": "Baloncesto masculino 2º ESO y mayores (unificada con categoria superior)",
+				"color": "DarkCyan",
+				"equipos": [
+					"DiegoTorres",
+					"JulioMarin",
+					"MiguelSancho",
+					"AndresTorres",
+					"FernandoAlen"
+				]
+			}
+		},
+		"campos": [
+			"campoB1",
+			"campoB2"
+		],
+		"horarios": [
+			"09:00",
+			"09:30",
+			"10:00",
+			"10:30",
+			"12:00",
+			"12:30",
+			"13:00",
+			"13:30",
+			"14:00",
+			"14:30",
+			"15:00",
+			"15:30",
+			"16:00",
+			"16:30",
+			"17:00",
+			"17:30"
+		]
+	},
+	"Balonmano": {
+		"generar_torneo": "Y",
+		"categorias": {
+			"BALONMANO_1P": {
+				"color": "Brown",
+				"descripcion": "Balonmano 1º Primaria categoría mixta",
+				"equipos": [
+					"HugoDomingo",
+					"SamuelArtieda",
+					"AlvaroGrasa",
+					"GuillermoCarcas"
+				]
+			},
+			"BALONMANO_2P": {
+				"descripcion": "Balonmano 2º Primaria categoría mixta",
+				"color": "DarkCyan",
+				"equipos": [
+					"ManuelNavarro",
+					"InesMinguez",
+					"PedroSorribas",
+					"NachoArenas",
+					"NachoDeLasala",
+					"DavidHernandez"
+				]
+			},
+			"BALONMANO_3P": {
+				"descripcion": "Balonmano 3º Primaria categoría mixta",
+				"color": "DarkGoldenRod",
+				"equipos": [
+					"JavierTelleria",
+					"PabloAlen",
+					"PabloForcada",
+					"CarlosGarcia",
+					"SanchoDeCastro",
+					"AlbaSanguino",
+					"RodrigoMendivil"
+				]
+			}
+		},
+		"campos": [
+			"campoM1",
+			"campoM2"
+		],
+		"horarios": [
+			"09:00",
+			"09:30",
+			"10:00",
+			"10:30",
+			"12:00",
+			"12:30",
+			"13:00",
+			"13:30",
+			"14:00",
+			"14:30",
+			"15:00",
+			"15:30",
+			"16:00",
+			"16:30",
+			"17:00",
+			"17:30"
+		]
+	},
+	"Voleibol": {
+		"generar_torneo": "N",
+		"categorias": {
+			"VOLEIBOL_1E": {
+				"descripcion": "Voleibol 1º ESO categoría mixta",
+				"equipos": []
+			},
+			"VOLEIBOL_2E": {
+				"descripcion": "Voleibol 2º ESO categoría mixta",
+				"equipos": []
+			},
+			"VOLEIBOL_3E": {
+				"descripcion": "Voleibol 3º ESO categoría mixta",
+				"equipos": []
+			},
+			"VOLEIBOL_4E": {
+				"descripcion": "Voleibol 4º ESO categoría mixta",
+				"equipos": []
+			},
+			"VOLEIBOL_1B": {
+				"descripcion": "Voleibol 1º Bachillerato categoría mixta",
+				"equipos": []
+			},
+			"VOLEIBOL_2B": {
+				"descripcion": "Voleibol 2º Bachillerato categoría mixta",
+				"equipos": []
+			}
+		},
+		"campos": [
+			"campoP1",
+			"campoP2"
+		],
+		"horarios": [
+			"08:30",
+			"09:00",
+			"09:30",
+			"10:00",
+			"10:30",
+			"12:00",
+			"12:30",
+			"13:00",
+			"13:30",
+			"14:00",
+			"14:30",
+			"15:00",
+			"15:30",
+			"16:00",
+			"16:30",
+			"17:00",
+			"17:30"
+		]
+	},
+	"Patines": {
+		"generar_torneo": "N",
+		"categorias": {
+			"PATINES_1P": {
+				"descripcion": "Patines 1º primaria"
+			},
+			"PATINES_2P": {
+				"descripcion": "Patines 2º primaria"
+			},
+			"PATINES_3P": {
+				"descripcion": "Patines 3º primaria"
+			},
+			"PATINES_4P": {
+				"descripcion": "Patines 4º primaria"
+			}
+		},
+		"campos": [
+			"Patines1"
+		],
+		"horarios": [
+			"11:00",
+			"11:30",
+			"12:00",
+			"12:30"
+		]
+	},
+	"Running": {
+		"generar_torneo": "N",
+		"categorias": {
+			"RUN_INF": {
+				"descripcion": "Running Infantil con papas"
+			},
+			"RUN_PRI": {
+				"descripcion": "Running Primaria"
+			},
+			"RUN_SEC": {
+				"descripcion": "Running Secundaria"
+			},
+			"RUN_MAY": {
+				"descripcion": "Running Mayores"
+			}
+		},
+		"campos": [
+			"Pista1"
+		],
+		"horarios": [
+			"11:00",
+			"11:30",
+			"12:00",
+			"12:30",
+			"13:00"
+		]
+	}
+}
