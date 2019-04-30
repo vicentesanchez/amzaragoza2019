@@ -6,68 +6,30 @@
 				"descripcion": "Futbol mixto 4º y 5º Primaria",
 				"color": "Brown",
 				"equipos": [
-					"CarlosOlivan",
-					"PabloSanchez",
-					"AlvaroComenge",
-					"HugoSerrano",
-					"MillanRojas",
-					"PabloRamon",
-					"DiegoBentura"
 				]
 			},
 			"FUTBOL_6P1E": {
 				"descripcion": "Futbol mixto 6º Primaria y 1º ESO",
 				"color": "DarkCyan",
 				"equipos": [
-					"ManuelRaventos",
-					"JuanTorres",
-					"EmilioMoreno",
-					"TomasRodrigo",
-					"PedroCoduras",
-					"JavierNavarro",
-					"JulianEzquerro",
-					"LorienMachin",
-					"NicolasPueo"
 				]
 			},
 			"FUTBOL_FEM_2E+": {
 				"descripcion": "Futbol femenino desde 2º de la ESO",
 				"color": "DarkGoldenRod",
 				"equipos": [
-					"BelenPerdiguer",
-					"BeatrizJuste",
-					"CandelasNavarro",
-					"PatriciaUriz",
-					"MartaOsacar",
-					"LauraLopez"
 				]
 			},
 			"FUTBOL_MAS_2E3E": {
 				"descripcion": "Futbol masculino 2º y 3º ESO",
 				"color": "DarkGreen",
 				"equipos": [
-					"FranchoMontañes",
-					"JuanPlana",
-					"AlexCiria",
-					"AlvaroGalan"
 				]
 			},
 			"FUTBOL_MAS_4E+": {
 				"descripcion": "Futbol masculino 4º ESO y mayores",
 				"color": "DarkMagenta",
 				"equipos": [
-					"AlvaroCarilla",
-					"JuanAisa",
-					"JavierOsacar",
-					"JuanPelegrin",
-					"MartinAisa",
-					"CarlosFernandez",
-					"JesusHuarte",
-					"IgnacioCasado",
-					"AlvaroFrances",
-					"EmilioMoreno",
-					"JuanLabarta",
-					"JuanClaver"
 				]
 			}
 		},
@@ -104,36 +66,18 @@
 				"descripcion": "Baloncesto femenino 4º y 5º Primaria",
 				"color": "Brown",
 				"equipos": [
-					"NuriaGimeno",
-					"CarlaRubio",
-					"CarmenFernandez",
-					"AlejandraDeCastro",
-					"LauraTorres",
-					"RocioNavarro",
-					"CarlotaGargallo",
-					"MenciaDelaCalle",
-					"CarlotaCasado",
-					"PatriciaFerran"
 				]
 			},
 			"MINI_MAS_4P5P": {
 				"descripcion": "Baloncesto masculino 4º y 5º Primaria",
 				"color": "DarkCyan",
 				"equipos": [
-					"MarcosCortinas",
-					"JuanIglesias",
-					"MarioJaneiro"
 				]
 			},
 			"MINI_MAS_6P1E": {
 				"descripcion": "Baloncesto masculino 6º Primaria y 1º ESO",
 				"color": "DarkGreen",
 				"equipos": [
-					"MarcosRodrigo",
-					"DanielFernandez",
-					"IgnacioOsacar",
-					"AlvaroMartinez",
-					"FernandoAlen"
 				]
 			}
 		},
@@ -167,26 +111,12 @@
 				"descripcion": "Baloncesto femenino 6º Primaria y 1º ESO (antiguo minibasket)",
 				"color": "DarkGoldenRod",
 				"equipos": [
-					"CeliaPena",
-					"VioletaSanchez",
-					"AnaFanlo",
-					"GabrielaGimeno",
-					"MariaArtano",
-					"AnaGimeno",
-					"MacarenaSauras",
-					"LeyreSalinas",
-					"InesGarcia"
 				]
 			},
 			"BASKET_MAS_2E+": {
 				"descripcion": "Baloncesto masculino 2º ESO y mayores (unificada con categoria superior)",
 				"color": "DarkCyan",
 				"equipos": [
-					"DiegoTorres",
-					"JulioMarin",
-					"MiguelSancho",
-					"AndresTorres",
-					"FernandoAlen"
 				]
 			}
 		},
@@ -220,35 +150,18 @@
 				"color": "Brown",
 				"descripcion": "Balonmano 1º Primaria categoría mixta",
 				"equipos": [
-					"HugoDomingo",
-					"SamuelArtieda",
-					"AlvaroGrasa",
-					"GuillermoCarcas"
 				]
 			},
 			"BALONMANO_2P": {
 				"descripcion": "Balonmano 2º Primaria categoría mixta",
 				"color": "DarkCyan",
 				"equipos": [
-					"ManuelNavarro",
-					"InesMinguez",
-					"PedroSorribas",
-					"NachoArenas",
-					"NachoDeLasala",
-					"DavidHernandez"
 				]
 			},
 			"BALONMANO_3P": {
 				"descripcion": "Balonmano 3º Primaria categoría mixta",
 				"color": "DarkGoldenRod",
 				"equipos": [
-					"JavierTelleria",
-					"PabloAlen",
-					"PabloForcada",
-					"CarlosGarcia",
-					"SanchoDeCastro",
-					"AlbaSanguino",
-					"RodrigoMendivil"
 				]
 			}
 		},
