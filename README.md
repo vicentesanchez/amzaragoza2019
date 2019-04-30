@@ -1,4 +1,4 @@
-# amzaragoza2019 dfgsdfgds
+# amzaragoza2019
 
 Generador de páginas información y de torneos para Accion Marianista Zaragoza 2019
 
